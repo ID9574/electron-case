@@ -1,0 +1,23 @@
+{
+  "name": "electron-case",
+  "version": "1.0.0",
+  "description": "Electron 桌面应用示例代码",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ID9574/electron-case.git"
+  },
+  "keywords": [
+    "Electron",
+    "桌面应用 "
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ID9574/electron-case/issues"
+  },
+  "homepage": "https://github.com/ID9574/electron-case#readme"
+}
