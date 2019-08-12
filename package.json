@@ -2,8 +2,9 @@
   "name": "electron-case",
   "version": "1.0.0",
   "description": "Electron 桌面应用示例代码",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
+    "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/ID9574/electron-case/issues"
   },
-  "homepage": "https://github.com/ID9574/electron-case#readme"
+  "homepage": "https://github.com/ID9574/electron-case#readme",
+  "devDependencies": {
+    "electron": "^6.0.0"
+  }
 }
