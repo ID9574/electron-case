@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/ID9574/electron-case#readme",
   "devDependencies": {
-    "electron": "^6.0.0"
+    "electron": "^9.1.0"
   }
 }
